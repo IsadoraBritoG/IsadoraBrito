@@ -1,9 +1,9 @@
 # IsadoraBrito #
 
-*aprendendo a usar o github.com*
+*Aprendendo a usar o github.com*
 
-*estou estudando na Alura*
-me desenvolvendo na linguagem Javascript*
+*Estou estudando na Alura*
+*Me desenvolvendo na linguagem Javascript*
 
 "OBJETIVOS E SONHOS🥇"
 
@@ -11,4 +11,4 @@ me desenvolvendo na linguagem Javascript*
 
 ✓ aprender a criar páginas no computador
  
-✓ ser um grande comerciante
+'✓ ser um grande comerciante'
